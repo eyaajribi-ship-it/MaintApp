@@ -25,11 +25,12 @@ Application web développée avec le framework **Laravel (PHP)** permettant la g
 
 ## 📁 Structure du Projet
 
-app/          Logique applicative (Contrôleurs, Modèles, Middleware)
-database/     Migrations et configurations de la base de données
-resources/    Vues Blade, templates et styles d'interface
-routes/       Définition des routes web et API
+- **`app/`** : Logique applicative (Contrôleurs, Modèles, Middleware)
+- **`database/`** : Migrations et configurations de la base de données
+- **`resources/`** : Vues Blade, templates et styles d'interface
+- **`routes/`** : Définition des routes web et API
 
+---
 ## 👩‍💻 Auteure
 
 Eya Jeribi, étudiante en Licence Technologie de l'Informatique (DSI), ISET Zaghouan
